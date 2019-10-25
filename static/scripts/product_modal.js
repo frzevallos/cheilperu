@@ -297,11 +297,11 @@ $('button#clickbutton55NU7500GXPE').click (function(){
 
   });
   $('button#Cat_WA17F7L6DDB__17kg').click (function(){
-    $('button#buttonWA17F7L6DDB').attr('data-target','#MbuttonWA17F7L6DDB_19__xkg');
+    $('button#buttonWA17F7L6DDB').attr('data-target','#MbuttonWA17F7L6DDB_17__xkg');
 
   });
   $('button#Cat_WA19F7L6DDW_19kg11p').click (function(){
-    $('button#buttonWA19F7L6DDW11x').attr('data-target','#MbuttonWA19F7L6DDW_19_pp');
+    $('button#buttonWA19F7L6DDW11x').attr('data-target','#MbuttonWA17F7L6DDB_19__xkddg');
 
   });
   $('button#Cat_WA19F7L6DDW_17kg11p').click (function(){
@@ -344,12 +344,16 @@ $('button#clickbutton55NU7500GXPE').click (function(){
     $('button#buttonWA17F7L6DDB').attr('data-target','MbuttonWA17F7L6DDB_17__xkg');
 
   });
-
-  
-  $('button#Cat_WA17F7L6DDB__19kg').click (function(){
-    $('button#buttonWA17F7L6DDB').attr('data-target','MbuttonWA17F7L6DDB_19__xkg');
-
+  $("ul#select_WA19F7L6DDW_2 li button").click(function() {
+    // remove classes from all
+    $("ul#select_WA19F7L6DDW_2 > li > button").removeClass("active");
+    // add class to the one we clicked
+    $(this).addClass("active");
+    // stop the page from jumping to the top
+    return false;
   });
+  
+ 
   $("ul#select_WA19F7L6DDW li button").click(function() {
     // remove classes from all
     $("ul#select_WA19F7L6DDW > li > button").removeClass("active");

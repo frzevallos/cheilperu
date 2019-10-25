@@ -2352,7 +2352,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                               <button class="buybtn2" type="button" style="cursor:pointer"><label id="TV-UN32J4290AGXPE-Oechsle" style="cursor:pointer">Comprar</label></button></a>
                                           </p>
                                         </div>
-                                        <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"  src="static/images/products/logos retailers/hiraoka.png">
+                                        <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"  src="static/images/products/logos retailers/hiraoka3.png">
                                           <p>
                                             <a href="https://hiraoka.com.pe/catalog/product/view/id/6372/category/12/" target="_blank">
                                               <button  class="buybtn2" type="button" style="cursor:pointer"><label id="TV-UN32J4290AGXPE-Hiraoka" style="cursor:pointer">Comprar</label></button></a>
@@ -2509,7 +2509,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                       <button id="TV-UN43J5202AGXPE-Metro" class="buybtn2" type="button" style="cursor:pointer"><label style="cursor:pointer">Comprar</label></button></a>
                                                     </p>
                                                   </div>
-                                                <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer" src="static/images/products/logos retailers/hiraoka.png">
+                                                <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer" src="static/images/products/logos retailers/hiraoka3.png">
                                                   <p>
                                                     <a href="https://hiraoka.com.pe/catalog/product/view/id/3864/category/12/" target="_blank">
                                                       <button id="TV-UN43J5202AGXPE-Hiraoka" class="buybtn2" type="button" style="cursor:pointer"><label style="cursor:pointer">Comprar</label></button></a>
@@ -2648,7 +2648,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                     <br><h3 style="text-align: left;font-family:SamsungOne">Encuéntralo en:</h3><br>
                                                     <div class="row center-xs center-sm">
   
-                                                        <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"  src="static/images/products/logos retailers/metro.png">
+                                                        <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"  src="static/images/products/logos retailers/hiraoka.png">
                                                           <p>
                                                             <a href="https://hiraoka.com.pe/catalog/product/view/id/3870/category/12/" target="_blank">
                                                               <button id="TV-QN49Q60RAGXPE-Hiraoka" class="buybtn2" type="button" style="cursor:pointer"><label style="cursor:pointer">Comprar</label></button></a>
@@ -3588,7 +3588,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                     <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
                                                                                                             src="static/images/products/logos retailers/curacao.png">
                                                                                                         <p>
-                                                                                                            <a href=https://www.lacuracao.pe/curacao/tv-y-audio/televisores/tv-samsung-ultra-hd-4k-2019-plano-smart-tv-50-un-50ru7400g--un-50ru7400g" target="_blank">
+                                                                                                            <a href="https://www.lacuracao.pe/curacao/tv-y-audio/televisores/tv-samsung-ultra-hd-4k-2019-plano-smart-tv-50-un-50ru7400g--un-50ru7400g" target="_blank">
                                                                                                                 <button id="TV-UN50RU7400GXPE-La-Curacao" class="buybtn2" type="button"
                                                                                                                     style="cursor:pointer"><label
                                                                                                                         style="cursor:pointer">Comprar</label></button></a>
@@ -3648,7 +3648,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                     </div>
                                                                            
                                                                                                     <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                                                                            src="static/images/products/logos retailers/hiraoka.png">
+                                                                                                            src="static/images/products/logos retailers/hiraoka3.png">
                                                                                                         <p>
                                                                                                             <a href="https://hiraoka.com.pe/catalog/product/view/id/6366/category/12/" target="_blank">
                                                                                                                 <button id="TV-UN55RU7400GXPE-La-Curacao" class="buybtn2" type="button"
@@ -3702,7 +3702,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                         </div>
 
                                                                                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                                                                                src="static/images/products/logos retailers/hiraoka.png">
+                                                                                                                src="static/images/products/logos retailers/hiraoka3.png">
                                                                                                             <p>
                                                                                                                 <a href="https://hiraoka.com.pe/catalog/product/view/id/3918/category/12/ " target="_blank">
                                                                                                                     <button id="TV-UN65RU7400GXPE-Hiraoka" class="buybtn2" type="button"
@@ -3793,7 +3793,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                     
                                                                     
                                                                                     <div class="col-sm-12 col-xs-12">
-                                                                                        <h1 class="title-product" style="margin: 0 auto;">Plano Smart TV 4K 2019</h1>
+                                                                                        <h1 class="title-product" style="margin: 0 auto;">Curvo Smart TV 4K 2019</h1>
                                                                     
                                                                                     </div>
                                                                                     <div class="row center-xs col-xs-12" style="margin: 0 auto;">
@@ -4142,7 +4142,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                     </p>
                                                                                                 </div>
                                                                                                 <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                                                                        src="static/images/products/logos retailers/hiraoka.png">
+                                                                                                        src="static/images/products/logos retailers/hiraoka3.png">
                                                                                                     <p>
                                                                                                         <a href="https://hiraoka.com.pe/catalog/product/view/id/3861/category/12/" target="_blank">
                                                                                                             <button id="TV-UN43RU7100GXPE-Hiraoka" class="buybtn2" type="button"
@@ -4212,7 +4212,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                     </p>
                                                                                                 </div>
                                                                                                 <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                                                                    src="static/images/products/logos retailers/hiraoka.png">
+                                                                                                    src="static/images/products/logos retailers/hiraoka3.png">
                                                                                                 <p>
                                                                                                     <a href="https://hiraoka.com.pe/catalog/product/view/id/6369/category/12/" target="
                                                                                                         _blank">
@@ -4292,7 +4292,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                         </p>
                                                                                                     </div>
                                                                                                     <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                                                                        src="static/images/products/logos retailers/hiraoka.png">
+                                                                                                        src="static/images/products/logos retailers/hiraoka3.png">
                                                                                                     <p>
                                                                                                         <a href="https://hiraoka.com.pe/catalog/product/view/id/3915/category/12/" target="
                                                                                                             _blank">
@@ -4373,7 +4373,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                             </p>
                                                                                                         </div>
                                                                                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                                                                                src="static/images/products/logos retailers/hiraoka.png">
+                                                                                                                src="static/images/products/logos retailers/hiraoka3.png">
                                                                                                             <p>
                                                                                                                 <a href="https://hiraoka.com.pe/catalog/product/view/id/3921/category/12/" target="_blank">
                                                                                                                     <button id="TV-UN75RU7100GXPE-Metro" class="buybtn2" type="button"
@@ -4525,7 +4525,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                 <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
                                                                                                         src="static/images/products/logos retailers/OE.png">
                                                                                                     <p>
-                                                                                                        <a href="#" target=" _blank">
+                                                                                                        <a href="https://www.oechsle.pe/samsung-televisor-qled-8k-82-q900r-1458729/p" target=" _blank">
                                                                                                             <button id="TV-UN43RU7100GXPE-Oechsle" class="buybtn2" type="button"
                                                                                                                 style="cursor:pointer"><label
                                                                                                                     style="cursor:pointer">Comprar</label></button></a>
@@ -4534,7 +4534,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                 <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
                                                                                                         src="static/images/products/logos retailers/metro.png">
                                                                                                     <p>
-                                                                                                        <a href="#" target="_blank">
+                                                                                                        <a href="https://shop.samsung.com.pe/rg90ss/p" target="_blank">
                                                                                                             <button id="TV-UN43RU7100GXPE-Metro" class="buybtn2" type="button"
                                                                                                                 style="cursor:pointer"><label
                                                                                                                     style="cursor:pointer">Comprar</label></button></a>
@@ -4543,7 +4543,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                 <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
                                                                                                         src="static/images/products/logos retailers/curacao.png">
                                                                                                     <p>
-                                                                                                        <a href="#" target="_blank">
+                                                                                                        <a href="https://shop.samsung.com.pe/rg90ss/p" target="_blank">
                                                                                                             <button id="TV-UN43RU7100GXPE-La-Curacao" class="buybtn2" type="button"
                                                                                                                 style="cursor:pointer"><label
                                                                                                                     style="cursor:pointer">Comprar</label></button></a>
@@ -4552,7 +4552,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                 <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
                                                                                                         src="static/images/products/logos retailers/plaza-vea.png">
                                                                                                     <p>
-                                                                                                        <a href="#" target="_blank">
+                                                                                                        <a href="https://shop.samsung.com.pe/rg90ss/p" target="_blank">
                                                                                                             <button id="TV-UN43RU7100GXPE-Plaza-Vea" class="buybtn2" type="button"
                                                                                                                 style="cursor:pointer"><label
                                                                                                                     style="cursor:pointer">Comprar</label></button></a>
@@ -4561,7 +4561,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                 <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
                                                                                                         src="static/images/products/logos retailers/efe.png">
                                                                                                     <p>
-                                                                                                        <a href="#" target="_blank">
+                                                                                                        <a href="https://shop.samsung.com.pe/rg90ss/p" target="_blank">
                                                                                                             <button id="TV-UN43RU7100GXPE-EFE" class="buybtn2" type="button"
                                                                                                                 style="cursor:pointer"><label
                                                                                                                     style="cursor:pointer">Comprar</label></button></a>
@@ -5132,7 +5132,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <br>
                                     <div class="row center-xs center-sm">
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                src="static/images/products/logos retailers/hiraoka.png">
+                                                src="static/images/products/logos retailers/hiraoka3.png">
                                             <p>
                                                 <a href="https://hiraoka.com.pe/linea-blanca/hornos/hornos-microondas/horno-microondas-samsung-ms32j5133ag-pe-32l" target="_blank">
                                                     <button class="buybtn2"  type="button" style="cursor:pointer"><label
@@ -5265,8 +5265,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
                                                 src="static/images/products/logos retailers/metro.png">
                                             <p>
-                                                <a href="https://www.metro.pe/samsung-refrigeradora-617-lt-rs64r5311m9-all-around-cooling-759300/p"
-                                                    target="_blank">
+                                                <a href="https://www.metro.pe/samsung-refrigeradora-617-lt-rs64r5311m9-all-around-cooling-759300/p" target="_blank">
                                                     <button id="DA-RS64R5311M9PE-Metro" class="buybtn2" type="button" style="cursor:pointer"><label
                                                             style="cursor:pointer">Comprar</label></button></a>
                                             </p>
@@ -5274,8 +5273,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
                                                 src="static/images/products/logos retailers/plaza-vea.png">
                                             <p>
-                                                <a href="https://tienda.plazavea.com.pe/refrigeradora-samsung-617l-no-frost-rs64r5311m9/p"
-                                                    target="_blank">
+                                                <a href="https://tienda.plazavea.com.pe/refrigeradora-samsung-617l-no-frost-rs64r5311m9/p" target="_blank">
                                                     <button id="DA-RS64R5311M9PE-Plaza-Vea" class="buybtn2" type="button" style="cursor:pointer"><label
                                                             style="cursor:pointer">Comprar</label></button></a>
                                             </p>
@@ -5407,9 +5405,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <br>
                                     <div class="row center-xs center-sm">
                                             <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                src="static/images/products/logos retailers/hiraoka.png">
+                                                src="static/images/products/logos retailers/hiraoka3.png">
                                             <p>
-                                                <a href="https://hiraoka.com.pe/linea-blanca/refrigeracion/refrigeradoras/refrigeradora-samsung-rt53k6541bs-pe-no-frost-526"
+                                                <a href="https://hiraoka.com.pe/linea-blanca/refrigeracion/refrigeradoras/refrigeradora-samsung-rt53k6541bs-pe-no-frost-526l"
                                                     target="_blank">
                                                     <button id="DA-RT53K6541BSPE-Hiraoka" class="buybtn2" type="button"
                                                         style="cursor:pointer"><label
@@ -5552,7 +5550,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <br>
                                     <div class="row center-xs center-sm">
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                src="static/images/products/logos retailers/hiraoka.png">
+                                                src="static/images/products/logos retailers/hiraoka3.png">
                                             <p>
                                                 <a href="https://hiraoka.com.pe/linea-blanca/refrigeracion/refrigeradora-samsung-rt46k6631bs-pe-no-frost-452l" target="_blank">
                                                     <button id="DA-RT46K6631BSPE-Hiraoka" class="buybtn2" type="button"
@@ -5708,9 +5706,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <br>
                                     <div class="row center-xs center-sm">
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                src="static/images/products/logos retailers/hiraoka.png">
+                                                src="static/images/products/logos retailers/hiraoka3.png">
                                             <p>
-                                                <a href="#" target="_blank">
+                                                <a href="https://hiraoka.com.pe/linea-blanca/refrigeracion/refrigeradora-samsung-rl4363sbabs-pe-no-frost-432l" target="_blank">
                                                     <button id="DA-RL4363SBABSPE-Hiraoka" class="buybtn2" type="button"
                                                         style="cursor:pointer"><label
                                                             style="cursor:pointer">Comprar</label></button></a>
@@ -6144,7 +6142,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <br>
                                 <div class="row center-xs center-sm">
                                     <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                            src="static/images/products/logos retailers/hiraoka.png">
+                                            src="static/images/products/logos retailers/hiraoka3.png">
                                         <p>
                                             <a href="https://hiraoka.com.pe/linea-blanca/lavado/lavadoras/lavadora-samsung-wa19n6780cv-19-kg-superior" target="_blank">
                                                 <button id="DA-WA19N6780CVPE-Hiraoka" class="buybtn2" type="button"
@@ -6190,7 +6188,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <br>
                                 <div class="row center-xs center-sm">
                                                 <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                        src="static/images/products/logos retailers/hiraoka.png">
+                                                        src="static/images/products/logos retailers/hiraoka3.png">
                                                     <p>
                                                         <a href="https://hiraoka.com.pe/linea-blanca/lavado/lavadoras/lavadora-samsung-wa19n6780cv-19-kg-superior" target="_blank">
                                                             <button id="DA-WA19N6780CVPE-Hiraoka" class="buybtn2" type="button"
@@ -6293,7 +6291,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </div>
                     <div class="row center-xs col-xs-12" style="margin: 0 auto;">
     
-                        <ul id="select_WA19F7L6DDW" class="row col-sm-12 center-sm center-xs center-xs col-xs-12">
+                        <ul id="select_WA19F7L6DDW_2" class="row col-sm-12 center-sm center-xs center-xs col-xs-12">
                             <li class="col-sm-6 col-xs-5  col-md-6 product_li">
                                 <button id="Cat_WA19F7L6DDW_19kg11"
                                     class="button_rounder ref_btn active"><label>19kg</label></button>
@@ -6316,7 +6314,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
                     <div class="col-sm-12">
                         <button id="buttonWA19F7L6DDW11x" type="button" class="buybtn btn btn-info btn-lg" data-toggle="modal"
-                            data-target="#MbuttonWA19F7L6DDW_19_xx">Comprar</button>
+                            data-target="#MbuttonWA19N6780CV_19_xx">Comprar</button>
     
                     </div>
     
@@ -6576,14 +6574,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
                                                 src="static/images/products/logos retailers/OE.png">
                                             <p>
-                                                <a href=" https://www.oechsle.pe/lavadora-wa17f7l6ddb-17kg-gris-1295840/p" target="_blank">
+                                                <a href="https://www.oechsle.pe/lavadora-wa17f7l6ddb-17kg-gris-1295840/p" target="_blank">
                                                     <button id="DA-WA17F7L6DDBPE-Oechsle" class="buybtn2" type="button"
                                                         style="cursor:pointer"><label
                                                             style="cursor:pointer">Comprar</label></button></a>
                                             </p>
                                         </div>
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                            src="static/images/products/logos retailers/hiraoka.png">
+                                            src="static/images/products/logos retailers/hiraoka3.png">
                                         <p>
                                             <a href="https://hiraoka.com.pe/lavadora-samsung-wa17f7l6ddb-pe-17-kg-superior" target="_blank">
                                                 <button id="DA-WA17F7L6DDBPE-Samsung" class="buybtn2" type="button"
@@ -7067,7 +7065,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         </p>
                                     </div>
                                     <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                        src="static/images/products/logos retailers/hiraoka.png">
+                                        src="static/images/products/logos retailers/hiraoka3.png">
                                     <p>
                                         <a href="https://hiraoka.com.pe/linea-blanca/lavado/lavadoras/lavadora-samsung-wa13f5l2udy-13-kg-superior" target="_blank">
                                             <button id="DA-WA13F5L2UDYPE-Oechsle" class="buybtn2" type="button"
@@ -7489,7 +7487,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                     <ul id="select_WD11N64FOOX" class="row col-sm-12 center-sm center-xs center-xs col-xs-12">
                                                         <li class="col-sm-6 col-xs-5  col-md-6 product_li">
                                                             <button id="Cat_WD11N64FOOX"
-                                                                class="button_rounder ref_btn active"><label>12kg</label></button>
+                                                                class="button_rounder ref_btn active"><label>11.5kg</label></button>
                                 
                                                         </li>
                                                         <li class="col-sm-6 col-xs-5  col-md-6 product_li">
@@ -7716,8 +7714,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
                                                 src="static/images/products/logos retailers/metro.png">
                                             <p>
-                                                <a href="https://www.metro.pe/samsung-refrigeradora-617-lt-rs64r5311m9-all-around-cooling-759300/p"
-                                                    target="_blank">
+                                                <a href="https://www.metro.pe/samsung-refrigeradora-617-lt-rs64r5311m9-all-around-cooling-759300/p" target="_blank">
                                                     <button id="DA-RS64R5311M9PE-Metro" class="buybtn2" type="button" style="cursor:pointer"><label
                                                             style="cursor:pointer">Comprar</label></button></a>
                                             </p>
@@ -7725,8 +7722,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
                                                 src="static/images/products/logos retailers/plaza-vea.png">
                                             <p>
-                                                <a href="https://tienda.plazavea.com.pe/refrigeradora-samsung-617l-no-frost-rs64r5311m9/p"
-                                                    target="_blank">
+                                                <a href="https://tienda.plazavea.com.pe/refrigeradora-samsung-617l-no-frost-rs64r5311m9/p" target="_blank">
                                                     <button id="DA-RS64R5311M9PE-Plaza-Vea" class="buybtn2" type="button" style="cursor:pointer"><label
                                                             style="cursor:pointer">Comprar</label></button></a>
                                             </p>
@@ -7858,9 +7854,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <br>
                                     <div class="row center-xs center-sm">
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                src="static/images/products/logos retailers/hiraoka.png">
+                                                src="static/images/products/logos retailers/hiraoka3.png">
                                             <p>
-                                                <a href="https://hiraoka.com.pe/linea-blanca/refrigeracion/refrigeradoras/refrigeradora-samsung-rt53k6541bs-pe-no-frost-526"
+                                                <a href="https://hiraoka.com.pe/linea-blanca/refrigeracion/refrigeradoras/refrigeradora-samsung-rt53k6541bs-pe-no-frost-526l"
                                                     target="_blank">
                                                     <button id="DA-RT53K6541BSPE-Hiraoka" class="buybtn2" type="button"
                                                         style="cursor:pointer"><label
@@ -8003,7 +7999,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <br>
                                     <div class="row center-xs center-sm">
                                             <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                src="static/images/products/logos retailers/hiraoka.png">
+                                                src="static/images/products/logos retailers/hiraoka3.png">
                                             <p>
                                                 <a href="https://hiraoka.com.pe/linea-blanca/refrigeracion/refrigeradora-samsung-rt46k6631bs-pe-no-frost-452l" target="_blank">
                                                     <button id="DA-RT46K6631BSPE-Hiraoka" class="buybtn2" type="button"
@@ -8157,10 +8153,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <br>
                                     <div class="row center-xs center-sm">
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                src="static/images/products/logos retailers/hiraoka.png">
+                                                src="static/images/products/logos retailers/hiraoka3.png">
                                             <p>
                                                 <a href="https://hiraoka.com.pe/linea-blanca/refrigeracion/refrigeradora-samsung-rl4363sbabs-pe-no-frost-432l" target="_blank">
-                                                    <button id="DA-RL4363SBABSPE-Estilos" class="buybtn2" type="button"
+                                                    <button id="DA-RL4363SBABSPE-Hiraoka" class="buybtn2" type="button"
                                                         style="cursor:pointer"><label
                                                             style="cursor:pointer">Comprar</label></button></a>
                                             </p>
@@ -8645,7 +8641,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <br>
                                     <div class="row center-xs center-sm">
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                src="static/images/products/logos retailers/hiraoka.png">
+                                                src="static/images/products/logos retailers/hiraoka3.png">
                                             <p>
                                                 <a href="https://hiraoka.com.pe/linea-blanca/lavado/lavadoras/lavadora-samsung-wa19n6780cv-19-kg-superior" target="_blank">
                                                     <button id="DA-WA19N6780CVPE-Hiraoka" class="buybtn2" type="button"
@@ -8691,7 +8687,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <br>
                                     <div class="row center-xs center-sm">
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                src="static/images/products/logos retailers/hiraoka.png">
+                                                src="static/images/products/logos retailers/hiraoka3.png">
                                             <p>
                                                 <a href="https://hiraoka.com.pe/linea-blanca/lavado/lavadoras/lavadora-samsung-wa19n6780cv-19-kg-superior" target="_blank">
                                                     <button id="DA-WA19N6780CVPE-Hiraoka" class="buybtn2" type="button"
@@ -8872,50 +8868,51 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         
         
                     </div>
-                    <div id="MbuttonWA19F7L6DDW_17_pp" class="modal fade" role="dialog">
-                        <div class="modal-dialog">
-        
-                            <!-- Modal content-->
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                </div>
-                                <div class="modal-body" style="font-family: SamsungSharpSans;text-align: left;">
-                                    <h2>WA17F7L6DDW</h2><br>
-        
-    
-                                    <h3 style="text-align: left;font-family:SamsungOne">Encuéntralo en:</h3>
-                                    <br>
-                                    <div class="row center-xs center-sm">
-                                        <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                src="static/images/products/logos retailers/OE.png">
-                                            <p>
-                                                <a href="https://www.oechsle.pe/lavadora-wa17n6780cv-17kg-negro-1295841/p"
-                                                    target="_blank">
-                                                    <button id="DA-WA19F7L6DDW-Oechsle" class="buybtn2" type="button"
-                                                        style="cursor:pointer"><label
-                                                            style="cursor:pointer">Comprar</label></button></a>
-                                            </p>
-                                        </div>
-        
-        
-        
-                                    </div>
-                                </div>
-        
-                            </div>
-        
-                        </div>
-        
-        
-        
-                    </div>
+                  
         
         
         
         
                 </div>
-        
+                <div id="MbuttonWA19F7L6DDW_17_pp" class="modal fade" role="dialog">
+                    <div class="modal-dialog">
+    
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            </div>
+                            <div class="modal-body" style="font-family: SamsungSharpSans;text-align: left;">
+                                <h2>WA17F7L6DDW</h2><br>
+    
+
+                                <h3 style="text-align: left;font-family:SamsungOne">Encuéntralo en:</h3>
+                                <br>
+                                <div class="row center-xs center-sm">
+                                    <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
+                                            src="static/images/products/logos retailers/OE.png">
+                                        <p>
+                                            <a href="https://www.oechsle.pe/lavadora-wa17n6780cv-17kg-negro-1295841/p"
+                                                target="_blank">
+                                                <button id="DA-WA19F7L6DDW-Oechsle" class="buybtn2" type="button"
+                                                    style="cursor:pointer"><label
+                                                        style="cursor:pointer">Comprar</label></button></a>
+                                        </p>
+                                    </div>
+    
+    
+    
+                                </div>
+                            </div>
+    
+                        </div>
+    
+                    </div>
+    
+    
+    
+                </div>
+                
             </div>
         
         </div>
@@ -9538,7 +9535,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             </p>
                                         </div>
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                            src="static/images/products/logos retailers/hiraoka.png">
+                                            src="static/images/products/logos retailers/hiraoka3.png">
                                         <p>
                                             <a href="https://hiraoka.com.pe/linea-blanca/lavado/lavadoras/lavadora-samsung-wa13f5l2udy-13-kg-superior" target="_blank">
                                                 <button id="DA-WA13F5L2UDYPE-Oechsle" class="buybtn2" type="button"
@@ -9969,7 +9966,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                         <ul id="select_WD11N64FOOX" class="row col-sm-12 center-sm center-xs center-xs col-xs-12">
                                                             <li class="col-sm-6 col-xs-5  col-md-6 product_li">
                                                                 <button id="Cat_WD11N64FOOX_12kx"
-                                                                    class="button_rounder ref_btn active"><label>12kg</label></button>
+                                                                    class="button_rounder ref_btn active"><label>11.5kg</label></button>
                                     
                                                             </li>
                                                             <li class="col-sm-6 col-xs-5  col-md-6 product_li">
@@ -10023,7 +10020,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                         </p>
                                                                     </div>
                                                                     <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"
-                                                                        src="static/images/products/logos retailers/hiraoka.png">
+                                                                        src="static/images/products/logos retailers/hiraoka3.png">
                                                                     <p>
                                                                         <a href="https://hiraoka.com.pe/linea-blanca/lavado/lavasecas/lavaseca-samsung-wd11n64foox-pe-11-5-kg-frontal" target="_blank">
                                                                             <button id="DA-WD11N64FOOXPE-Oechsle" class="buybtn2" type="button"
@@ -10201,7 +10198,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <h3 style="text-align: left;font-family:SamsungOne">Encuéntralo en:</h3>
                           <br>
                           <div class="row center-xs center-sm">
-                              <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer" src="static/images/products/logos retailers/hiraoka.png">
+                              <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer" src="static/images/products/logos retailers/hiraoka3.png">
                                 <p>
                                     <a href="https://hiraoka.com.pe/linea-blanca/hornos/hornos-microondas/horno-microondas-samsung-ms32j5133ag-pe-32l" target="_blank">
                                       <button  class="buybtn2" type="button DA" style="cursor:pointer"><label id="DA-MS32J5133AGPE-Hiraoka" style="cursor:pointer">Comprar</label></button></a>
@@ -10232,7 +10229,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div style="background-color:#ccc;">
 <div style="padding:19px; font-size:11px;">
-Imágenes referenciales. Promoción válida sobre productos Samsung seleccionados de las siguientes categorías: Celulares Audio, video y línea blanca. Compras válidas en Lima y provincia para los puntos de venta en: Carsa, Chancafeq, Com. Country, Corp. Rocio. Credivargas, Curacao, Elektra, Estilos, Gallo más Gallo, Hiraoka, Impt. Rubi, Marcimex, Metro, Oeschle, Paris, Plaza Vea, Promart, Sima Hogar, Tiendas Efe, Wong. Stock mínimo por producto 50 unidades. Vigencia desde el 25.10.19 al 27.10.19 o hasta agotar stock. Para mayor información ingresa al sitio web: www.samsung.com.pe/blue-days
+Imágenes referenciales. Promoción válida sobre productos Samsung seleccionados de las siguientes categorías: Celulares Audio, video y línea blanca. Compras válidas en Lima y provincia para los puntos de venta en: Carsa, Chancafeq, Com. Country, Corp. Rocio. Credivargas, Curacao, Elektra, Estilos, Gallo más Gallo, Hiraoka, Impt. Rubi, Marcimex, Metro, Oeschle, Paris, Plaza Vea, Promart, Sima Hogar, Tiendas Efe, Wong. Stock mínimo por producto 5 unidades. Vigencia desde el 25.10.19 al 27.10.19 o hasta agotar stock. Para mayor información ingresa al sitio web: www.samsung.com.pe/blue-days
 </div>
 </div>
 
