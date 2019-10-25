@@ -9,6 +9,7 @@ $("#Mobile_menu div button").each(function() {
 
         // add class to the one we clicked
     });
+ 
 
 });
 $("button.smartphone").click(function(e) {
@@ -59,7 +60,7 @@ var url_string = window.location.href; //window.location.href
 var url = new URL(url_string);
 var c = url.searchParams.get("cat");  
 console.log(c);    
-if (c == 'smartphone') {
+if (c == 'smartphones') {
     function animate(elem, style, unit, from, to, time, prop) {
         if (!elem) {
             return;
@@ -171,17 +172,21 @@ if (c == 'smartphone') {
                 }, 1);
             if (prop) {
                   elem[style] = from+unit;
+
             } else {
                   elem.style[style] = from+unit;
             }
+
         }
         
         window.onload = function () {
             var target = document.getElementById("Mobile_menu");
             animate(document.scrollingElement || document.documentElement, "scrollTop", "", 0, target.offsetTop, 100, true);
+
         };
-    document.querySelector(".refrigeradoras").click();
-  
+     
+        document.querySelector(".refrigeradoras").click();
+
     }
     else if (c== 'microondas' ){
         function animate(elem, style, unit, from, to, time, prop) {
@@ -202,19 +207,22 @@ if (c == 'smartphone') {
                 }, 1);
             if (prop) {
                   elem[style] = from+unit;
+
             } else {
                   elem.style[style] = from+unit;
             }
+
         }
         
         window.onload = function () {
             var target = document.getElementById("Mobile_menu");
             animate(document.scrollingElement || document.documentElement, "scrollTop", "", 0, target.offsetTop, 100, true);
+
         };
-    document.querySelector(".microondas").click();
-  
-    }
-    else if (c== 'lavadoras' ){
+     
+        document.querySelector(".microondas").click();
+
+    }  else if (c== 'lavadoras' ){
         function animate(elem, style, unit, from, to, time, prop) {
             if (!elem) {
                 return;
@@ -233,17 +241,19 @@ if (c == 'smartphone') {
                 }, 1);
             if (prop) {
                   elem[style] = from+unit;
+
             } else {
                   elem.style[style] = from+unit;
             }
+
         }
         
         window.onload = function () {
             var target = document.getElementById("Mobile_menu");
             animate(document.scrollingElement || document.documentElement, "scrollTop", "", 0, target.offsetTop, 100, true);
-        };
-    document.querySelector(".lavadoras").click();
-  }
-else{
 
-}
+        };
+     
+        document.querySelector(".lavadoras").click();
+
+    }

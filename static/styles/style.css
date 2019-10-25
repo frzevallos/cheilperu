@@ -231,6 +231,13 @@ border:1px solid #000;
     width: 100%;
     border-radius: 38px;
 }
+#btn{
+  margin-top: 5px;
+  padding: 12px;
+  background:#1428a0;
+  width: 100%;
+  border-radius: 38px;
+}
 .white-text{
     color:white;
 }
@@ -959,9 +966,11 @@ button.smartphone svg:hover{
         background-color: black;
     color: White;
     font-family: 'SamsungSharpSans';
-    font-size: 9px;    /* border-radius: 20px; */
-
-    padding: 10px;
+    font-size: 11px;    /* border-radius: 20px; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
     margin-top: 20px;
     width: 100%;
     }
