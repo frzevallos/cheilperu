@@ -2349,13 +2349,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                       <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"  src="static/images/products/logos retailers/OE.png">
                                         <p>
                                             <a href="https://www.oechsle.pe/televisor-full-hd-smart-32--un32j4290agxpe-1268850/p"" target="_blank">
-                                              <button id="TV-UN32J4290AGXPE-Oechsle" class="buybtn2 TV-UN32J4290AGXPE-Oechsle" type="button" style="cursor:pointer"><label style="cursor:pointer">Comprar</label></button></a>
+                                              <button class="buybtn2" type="button" style="cursor:pointer"><label id="TV-UN32J4290AGXPE-Oechsle" style="cursor:pointer">Comprar</label></button></a>
                                           </p>
                                         </div>
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer"  src="static/images/products/logos retailers/hiraoka.png">
                                           <p>
                                             <a href="https://hiraoka.com.pe/catalog/product/view/id/6372/category/12/" target="_blank">
-                                              <button id="TV-UN32J4290AGXPE-Hiraoka" class="buybtn2 TV-UN32J4290AGXPE-Hiraoka" type="button" style="cursor:pointer"><label style="cursor:pointer">Comprar</label></button></a>
+                                              <button  class="buybtn2" type="button" style="cursor:pointer"><label id="TV-UN32J4290AGXPE-Hiraoka" style="cursor:pointer">Comprar</label></button></a>
                                             </p>
                                           </div>
                                         <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer" src="static/images/products/logos retailers/curacao.png">
@@ -2367,13 +2367,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                           <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer" src="static/images/products/logos retailers/plaza-vea.png">
                                             <p>
                                               <a href="https://tienda.plazavea.com.pe/televisor-samsung-led-32-hd-smart-tv-32j4290/p" target="_blank">
-                                                <button id="TV-UN32J4290AGXPE-Plaza-Vea" class="buybtn2 TV-UN32J4290AGXPE-Plaza-Vea" type="button" style="cursor:pointer"><label style="cursor:pointer">Comprar</label></button></a>
+                                                <button  class="buybtn2" type="button" style="cursor:pointer"><label id="TV-UN32J4290AGXPE-Plaza-Vea" style="cursor:pointer">Comprar</label></button></a>
                                               </p>
                                             </div>
                                             <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer" src="static/images/products/logos retailers/efe.png">
                                               <p>
                                                 <a href="https://www.efe.com.pe/efe/tv-y-audio/televisores/tv-samsung-full-hd-smart-ai-32-un-32j4290ag-un-32j4290ag" target="_blank">
-                                                  <button id="TV-UN32J4290AGXPE-EFE" class="buybtn2 TV-UN32J4290AGXPE-EFE" type="button" style="cursor:pointer"><label style="cursor:pointer">Comprar</label></button></a>
+                                                  <button class="buybtn2" type="button" style="cursor:pointer"><label id="TV-UN32J4290AGXPE-EFE"  style="cursor:pointer">Comprar</label></button></a>
                                                 </p>
                                               </div>
                                           
@@ -5135,8 +5135,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                 src="static/images/products/logos retailers/hiraoka.png">
                                             <p>
                                                 <a href="https://hiraoka.com.pe/linea-blanca/hornos/hornos-microondas/horno-microondas-samsung-ms32j5133ag-pe-32l" target="_blank">
-                                                    <button id="DA-MS32J5133AGPE-Hiraoka" class="buybtn2 DA-MS32J5133AGPE-Hiraoka"  type="button" style="cursor:pointer"><label
-                                                            style="cursor:pointer">Comprar</label></button></a>
+                                                    <button class="buybtn2"  type="button" style="cursor:pointer"><label
+                                                            style="cursor:pointer" id="DA-MS32J5133AGPE-Hiraoka">Comprar</label></button></a>
                                             </p>
                                         </div>
     
@@ -10204,7 +10204,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                               <div class="col-sm-4 col-xs-4 center-sm center-xs"><img class="images-retailer" src="static/images/products/logos retailers/hiraoka.png">
                                 <p>
                                     <a href="https://hiraoka.com.pe/linea-blanca/hornos/hornos-microondas/horno-microondas-samsung-ms32j5133ag-pe-32l" target="_blank">
-                                      <button id="DA-MS32J5133AGPE-Hiraoka" class="buybtn2" type="button DA-MS32J5133AGPE-Hiraoka" style="cursor:pointer"><label style="cursor:pointer">Comprar</label></button></a>
+                                      <button  class="buybtn2" type="button DA" style="cursor:pointer"><label id="DA-MS32J5133AGPE-Hiraoka" style="cursor:pointer">Comprar</label></button></a>
                                   </p>
                                 </div>
                                 
